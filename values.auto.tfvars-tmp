@@ -1,0 +1,4 @@
+region               = "YOUR-AWS_REGION"
+ubuntu_ami           = "YOUR-UBUNTU-AMI-ID"
+key_name             = "YOUR-SSH-KEY_PAIR-NAME"
+allow_ssh_from_ip    = "YOUR-LOCAL-MACHINE-IP"
